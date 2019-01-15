@@ -1,0 +1,10 @@
+.fulldate {
+	color: blue;	
+}
+.currenttime {
+	color: green;	
+}
+.container {
+	text-align: center;
+	margin-top: 200px;
+}
